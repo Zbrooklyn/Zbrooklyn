@@ -5,8 +5,8 @@
 
 
 ## 📶 Socials:
-[![C++](https://img.shields.io/badge/FaceBook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/eddie.sha.3) 
-[![C++](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eddieshamosh)
+[![Facebook](https://img.shields.io/badge/FaceBook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/eddie.sha.3) 
+[![C++](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eddieshamosh)
 [![C++](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/edward-shamosh-891141121) 
 
 ## 💻 Tech Stack:
@@ -23,7 +23,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Zbrooklyn&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zbrooklyn&icon=8&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/FindMeJewelry) 
