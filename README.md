@@ -1,13 +1,13 @@
-# Zbrooklyn
+# Zbrooklyn     [![](https://visitcount.itsvg.in/api?id=Zbrooklyn&icon=8&color=0)](https://visitcount.itsvg.in)
 ### Hi there 👋
 
 
 
 
 ## 📶 Socials:
-![C++](https://img.shields.io/badge/FaceBook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![C++](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![C++](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![C++](https://img.shields.io/badge/FaceBook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/eddie.sha.3) 
+[![C++](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eddieshamosh)
+[![C++](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/edward-shamosh-891141121) 
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
