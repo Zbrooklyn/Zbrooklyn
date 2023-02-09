@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+![cover-image](https://user-images.githubusercontent.com/73963020/217718682-7016519f-34f8-4d05-a234-6a3610f990ca.png)
+
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![cover-image](https://user-images.githubusercontent.com/73963020/217718761-56b96b50-99e4-43b9-804e-5a11d6c61a15.png)
 
