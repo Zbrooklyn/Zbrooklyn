@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zbrooklyn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zbrooklyn&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=10)
+![](https://github-profile-trophy.vercel.app/?username=Zbrooklyn&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 ---
 
