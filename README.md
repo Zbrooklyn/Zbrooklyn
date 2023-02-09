@@ -1,4 +1,7 @@
 # Zbrooklyn     [![](https://visitcount.itsvg.in/api?id=Zbrooklyn&icon=8&color=0)](https://visitcount.itsvg.in)
+
+![cover-image](https://user-images.githubusercontent.com/73963020/217718761-56b96b50-99e4-43b9-804e-5a11d6c61a15.png)
+
 ### Hi there 👋
 
 
@@ -55,7 +58,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-![cover-image](https://user-images.githubusercontent.com/73963020/217718761-56b96b50-99e4-43b9-804e-5a11d6c61a15.png)
 
